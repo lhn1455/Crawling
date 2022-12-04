@@ -3,6 +3,7 @@
 ## env
 ```
 Python 3.10.8
+pip 22.3.1
 
 ```
 ## Interpreter
